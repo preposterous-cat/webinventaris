@@ -1,0 +1,28 @@
+.bg-user {
+  background-color: #14527c !important;
+}
+
+.text-user {
+  color: #14527c !important;
+}
+
+.sidebar-content,
+.sidebar-link {
+  background-color: #14527c !important;
+  color: white !important;
+}
+
+.sidebar-header {
+  color: lightgray !important;
+}
+
+.sidebar-item.active > .sidebar-link {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.088) 100%, transparent) !important;
+  border-left-color: lightcyan !important;
+}
+
+.sidebar-toggle:hover .hamburger,
+.sidebar-toggle:hover .hamburger:after,
+.sidebar-toggle:hover .hamburger:before {
+  background: #14527c !important;
+}

@@ -1,0 +1,32 @@
+.sidebar-content,
+.sidebar-link {
+  background-color: cadetblue !important;
+  color: white !important;
+}
+
+.sidebar-header {
+  color: lightgray !important;
+}
+
+.sidebar-item.active > .sidebar-link {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.088) 100%, transparent) !important;
+  border-left-color: lightcyan !important;
+}
+
+.sidebar-toggle:hover .hamburger,
+.sidebar-toggle:hover .hamburger:after,
+.sidebar-toggle:hover .hamburger:before {
+  background: cadetblue !important;
+}
+
+.text-admin {
+  color: cadetblue !important;
+}
+
+.bg-admin {
+  background-color: cadetblue !important;
+}
+
+.data-table {
+  padding-left: 10px !important;
+}

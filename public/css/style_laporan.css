@@ -1,0 +1,45 @@
+.logo {
+  float: left;
+  margin-right: 20px;
+}
+
+.baris {
+  border-top: 5px solid black;
+}
+
+.text-header {
+  padding-top: 10px;
+  display: flex;
+  text-align: center;
+}
+
+.sub-header {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sub-header2 {
+  font-size: 16px;
+  text-align: center;
+}
+
+.content-head {
+  text-align: center;
+}
+
+#table-id {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left !important;
+}
+
+td {
+  border: 1px solid;
+  padding: 3px;
+  padding-left: 5px;
+}
+.table-admin {
+  text-align: left;
+}
